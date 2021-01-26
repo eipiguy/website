@@ -1,0 +1,17 @@
+body {
+        background-color:       var(--base-02);
+}
+
+a {
+        color:                  var(--red);
+        text-decoration:        none;
+}
+
+nav{
+        background-color:       var(--base-03);
+}
+
+.bubble {
+        background-color:       var(--base-03);
+        color:                  var(--base-0);
+}
